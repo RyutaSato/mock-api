@@ -1,5 +1,3 @@
-# Super Super Simple Mock Server based on File and Docker
-
 ## TL;DR
 You can set up the mock server simply by placing a JSON file in the `/responses` directory below.
 
