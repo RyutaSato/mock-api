@@ -26,7 +26,7 @@ docker run -d -p ${PORT}:8080 -v $(pwd)/responses:/responses mock-api
 ```
 
 Windows上でPowerShellを使用している場合
-```ps1
+```powershell
 # cd mock-api
 # $PORT=8080
 $PWD="$((pwd).Path.Replace('\', '/'))"
